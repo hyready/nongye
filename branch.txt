@@ -1,5 +1,8 @@
 test
 Creating a new branch is quick.
  git add readme.txt
+<<<<<<< HEAD
  text
+=======
+>>>>>>> feature
  
